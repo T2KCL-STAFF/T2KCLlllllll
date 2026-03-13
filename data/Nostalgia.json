@@ -1,0 +1,18 @@
+{
+    "id": 135416928,
+    "name": "Nostalgia",
+    "author": "FireCreeper80",
+    "creators": ["FireCreeper80"],
+    "verifier": "FireCreeper80",
+    "verification": "https://www.youtube.com/watch?v=EeCf9cWLLZM",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "arnazzzz",
+            "link": "https://www.youtube.com/watch?v=EeCf9cWLLZM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
